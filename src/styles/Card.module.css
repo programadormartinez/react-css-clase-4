@@ -1,0 +1,17 @@
+.custom_btn{
+    background-color: red;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: white;
+}
+
+.custom_btn_green{
+    background-color: green;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: white;
+}
